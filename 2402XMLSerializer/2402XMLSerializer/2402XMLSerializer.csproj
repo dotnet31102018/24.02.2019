@@ -50,6 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\..\..\..\..\temp\xmlarrayfile.xml">
+      <Link>xmlarrayfile.xml</Link>
+    </Content>
     <Content Include="..\..\..\..\..\..\temp\xmlfile.xml">
       <Link>xmlfile.xml</Link>
     </Content>

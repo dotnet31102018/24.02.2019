@@ -1,0 +1,7 @@
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\bin\Debug\2402XMLSerializer.exe.config
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\bin\Debug\2402XMLSerializer.exe
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\bin\Debug\2402XMLSerializer.pdb
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\obj\Debug\2402XMLSerializer.csprojResolveAssemblyReference.cache
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\obj\Debug\2402XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\obj\Debug\2402XMLSerializer.exe
+C:\Users\HackerU\source\repos\2402XMLSerializer\2402XMLSerializer\obj\Debug\2402XMLSerializer.pdb
